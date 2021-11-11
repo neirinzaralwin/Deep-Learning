@@ -1,4 +1,4 @@
-This is the educational purpose only. Do not copy the code directy I've shown in github. Watch carefully to understand codes and theroy. I hope my code will help your assignment.
+This is the educational purpose only. Do not copy the code directy I've shown in github. Watch carefully to understand codes and theroy. I hope my codes will help your assignment.
 
 
 FOLLOW ME. 
