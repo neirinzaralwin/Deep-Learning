@@ -14,4 +14,4 @@ In this project I practiced U-NET architecture for Image Segmentation.
 >>>>>>> DON'T COPY MY CODE DIRECTLY , JUST WATCH TO UNDERSTAND <<<<<<<<<<
 
 
-REFERENCE YOUTUBE VIDEO: https://www.youtube.com/watch?v=IHq1t7NxS8k&t=1803s
+REFERENCED YOUTUBE VIDEO: https://www.youtube.com/watch?v=IHq1t7NxS8k&t=1803s
