@@ -1,5 +1,7 @@
 In this project I practiced U-NET architecture for Image Segmentation.
 
+    CREATE saved_images folder in your directory
+
 > used Jupyter Notebook in anaconda
 > used Pytorch
 > used Cavana Image Masking Challenge's dataset in Kaggle 
