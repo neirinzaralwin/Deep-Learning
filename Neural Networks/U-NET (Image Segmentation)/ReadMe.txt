@@ -8,7 +8,8 @@ In this project I practiced U-NET architecture for Image Segmentation.
  dataset link : https://www.kaggle.com/c/carvana-image-masking-challenge
  
  HOW I USE DATASET
--> I downloaded Train and Train_masks dataset because the whole dataset is so big, nearly 24 GB. Then I split train and validation data from train and train_masks dataset.
+-> I downloaded Train and Train_masks dataset because the whole dataset is so big, nearly 24 GB. So I download nearly 1GB train and train_masks dataset.
+   Then I split train and validation data from train and train_masks dataset.
 -> validation datasets size is about 96 image.
 
 >>>>>>> DON'T COPY MY CODE DIRECTLY , JUST WATCH TO UNDERSTAND <<<<<<<<<<
