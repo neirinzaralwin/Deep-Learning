@@ -1,3 +1,5 @@
+![imdb](https://i.pinimg.com/564x/b7/3c/88/b73c88e5c3c0b8624e4207411d28014e.jpg)
+
 <h2> Sentiment Analysis Kaggle IMDB using LSTM </h2>
 This project is suitable for beginner who want to under stand the NLP using LSTM.
 
