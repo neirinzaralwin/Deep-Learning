@@ -10,7 +10,7 @@ In this notebook I classify Hummingbird on simple convolutional nerual network a
 <br><br><br>
 <h3>Efficient Net</h3>
 <br>
-<img src="https://www.google.com/search?q=efficient+net&sxsrf=ALiCzsZTxijndWXe225ePz-TfoxS2S1uQA:1652023293728&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiO-9SsmtD3AhWbUGwGHWRTCnAQ_AUoAXoECAEQAw&biw=1536&bih=714&dpr=1.25#imgrc=vyp0jc_BgbOE1M"</img>
+<img src="https://www.researchgate.net/profile/Tashin-Ahmed/publication/344410350/figure/fig4/AS:1022373302128641@1620764198841/Architecture-of-EfficientNet-B0-with-MBConv-as-Basic-building-blocks.png"</img>
 
 <br><br><br>
 <h3>Inception Net</h3>
