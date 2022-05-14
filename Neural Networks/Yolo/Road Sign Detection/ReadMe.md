@@ -4,5 +4,7 @@
 
 <br>
 <img src = "Presentation/Image/val_batch0_pred.jpg"></img>
-<center> <p> Validation Image </p> </center>
+
+<h2> Overall Result </h2>
+<img src = "Presentation/Image/results.png"></img>
 
