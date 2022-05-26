@@ -1,4 +1,5 @@
 # Microcontroller Detector using TF Object Detection API
+## using efficientdet_d0_coco17
 
 ### Download [Dataset](https://www.kaggle.com/datasets/tannergi/microcontroller-detection)
 
