@@ -2,6 +2,8 @@
 
 ### Download [Dataset](https://www.kaggle.com/datasets/tannergi/microcontroller-detection)
 
+<img width="500px" height = "500px" src = "https://camo.githubusercontent.com/9d90691b1ad617eaf7e8223c464d73386e9ed94418332ee199df2ff2fdd492c7/68747470733a2f2f6769746875622e636f6d2f54616e6e657247696c626572742f54656e736f72666c6f772d4f626a6563742d446574656374696f6e2d4150492d547261696e2d4d6f64656c2f626c6f622f6d61737465722f646f632f6f75747075742e706e673f7261773d31"></img>
+
 ### 1. Set up tensorflow object detection API and pretrained model
 ### 2. Train the model
 ### 3. Test Data from URL
